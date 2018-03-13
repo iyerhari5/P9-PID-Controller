@@ -1,0 +1,7 @@
+.vscode
+build
+tags
+.editorconfig
+term2_sim_windows/
+CODEOWNERS
+Results/
